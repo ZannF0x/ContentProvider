@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="bot_o_para_adicionar_nota">botão para adicionar nota</string>
+    <string name="description_test">Description Test</string>
+    <string name="title_test">Title Test</string>
+    <string name="remover">Remover</string>
+    <string name="t_tulo_da_anota_o">Título da Anotação</string>
+    <string name="escreva_sua_anota_o">Escreva sua anotação</string>
+    <string name="detalhes_da_nota">Detalhes da Nota</string>
+</resources>
